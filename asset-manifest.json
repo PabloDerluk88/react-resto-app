@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/PabloDerluk88/react-resto-app/static/js/main.fd53861f.chunk.js",
-    "main.js.map": "/PabloDerluk88/react-resto-app/static/js/main.fd53861f.chunk.js.map",
-    "runtime-main.js": "/PabloDerluk88/react-resto-app/static/js/runtime-main.db022ca7.js",
-    "runtime-main.js.map": "/PabloDerluk88/react-resto-app/static/js/runtime-main.db022ca7.js.map",
-    "static/js/2.abfb899d.chunk.js": "/PabloDerluk88/react-resto-app/static/js/2.abfb899d.chunk.js",
-    "static/js/2.abfb899d.chunk.js.map": "/PabloDerluk88/react-resto-app/static/js/2.abfb899d.chunk.js.map",
-    "static/js/3.bab53b16.chunk.js": "/PabloDerluk88/react-resto-app/static/js/3.bab53b16.chunk.js",
-    "static/js/3.bab53b16.chunk.js.map": "/PabloDerluk88/react-resto-app/static/js/3.bab53b16.chunk.js.map",
-    "index.html": "/PabloDerluk88/react-resto-app/index.html",
-    "static/js/2.abfb899d.chunk.js.LICENSE.txt": "/PabloDerluk88/react-resto-app/static/js/2.abfb899d.chunk.js.LICENSE.txt",
-    "static/media/desert-1.df2139e8.jpg": "/PabloDerluk88/react-resto-app/static/media/desert-1.df2139e8.jpg",
-    "static/media/desert-2.8cfa46c1.jpg": "/PabloDerluk88/react-resto-app/static/media/desert-2.8cfa46c1.jpg",
-    "static/media/desert-3.df7788ba.jpg": "/PabloDerluk88/react-resto-app/static/media/desert-3.df7788ba.jpg",
-    "static/media/feature-img.143c0dd5.jpg": "/PabloDerluk88/react-resto-app/static/media/feature-img.143c0dd5.jpg",
-    "static/media/product-1.4c6d9927.jpg": "/PabloDerluk88/react-resto-app/static/media/product-1.4c6d9927.jpg",
-    "static/media/product-2.3b475679.jpg": "/PabloDerluk88/react-resto-app/static/media/product-2.3b475679.jpg",
-    "static/media/product-3.5fe35b5f.jpg": "/PabloDerluk88/react-resto-app/static/media/product-3.5fe35b5f.jpg",
-    "static/media/sushi-bg.c83a0129.jpg": "/PabloDerluk88/react-resto-app/static/media/sushi-bg.c83a0129.jpg"
+    "main.js": "/react-resto-app/static/js/main.fd53861f.chunk.js",
+    "main.js.map": "/react-resto-app/static/js/main.fd53861f.chunk.js.map",
+    "runtime-main.js": "/react-resto-app/static/js/runtime-main.945444e1.js",
+    "runtime-main.js.map": "/react-resto-app/static/js/runtime-main.945444e1.js.map",
+    "static/js/2.14cffce9.chunk.js": "/react-resto-app/static/js/2.14cffce9.chunk.js",
+    "static/js/2.14cffce9.chunk.js.map": "/react-resto-app/static/js/2.14cffce9.chunk.js.map",
+    "static/js/3.bab53b16.chunk.js": "/react-resto-app/static/js/3.bab53b16.chunk.js",
+    "static/js/3.bab53b16.chunk.js.map": "/react-resto-app/static/js/3.bab53b16.chunk.js.map",
+    "index.html": "/react-resto-app/index.html",
+    "static/js/2.14cffce9.chunk.js.LICENSE.txt": "/react-resto-app/static/js/2.14cffce9.chunk.js.LICENSE.txt",
+    "static/media/desert-1.df2139e8.jpg": "/react-resto-app/static/media/desert-1.df2139e8.jpg",
+    "static/media/desert-2.8cfa46c1.jpg": "/react-resto-app/static/media/desert-2.8cfa46c1.jpg",
+    "static/media/desert-3.df7788ba.jpg": "/react-resto-app/static/media/desert-3.df7788ba.jpg",
+    "static/media/feature-img.143c0dd5.jpg": "/react-resto-app/static/media/feature-img.143c0dd5.jpg",
+    "static/media/product-1.4c6d9927.jpg": "/react-resto-app/static/media/product-1.4c6d9927.jpg",
+    "static/media/product-2.3b475679.jpg": "/react-resto-app/static/media/product-2.3b475679.jpg",
+    "static/media/product-3.5fe35b5f.jpg": "/react-resto-app/static/media/product-3.5fe35b5f.jpg",
+    "static/media/sushi-bg.c83a0129.jpg": "/react-resto-app/static/media/sushi-bg.c83a0129.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db022ca7.js",
-    "static/js/2.abfb899d.chunk.js",
+    "static/js/runtime-main.945444e1.js",
+    "static/js/2.14cffce9.chunk.js",
     "static/js/main.fd53861f.chunk.js"
   ]
 }
